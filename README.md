@@ -8,7 +8,7 @@ Offline local test runner for code.golf TeX holes without Docker.
 
 ## Files
 - 
-unner.py: runs TeX with code.golf \\argc / \\argv and converts DVI output to text.
+unner.py: runs TeX with code.golf \argc / \argv and converts DVI output to text.
 - octet.tfm: font metrics file used by code.golf.
 - dvi-to-text.exe: Windows binary to decode DVI output.
 - 	est.py: test script.
